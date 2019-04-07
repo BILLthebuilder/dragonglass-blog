@@ -50,7 +50,7 @@
                         <a href="#">
                             <li class="menu-item text-center">Insights</li>
                         </a>
-                        <a href="#">
+                        <a href="settings.php">
                             <li class="menu-item text-center">Settings</li>
                         </a>
 
